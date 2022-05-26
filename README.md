@@ -1,0 +1,1 @@
+Hello this is a api made in flask which can find armstrong numbers 
