@@ -1,7 +1,7 @@
 ### About
 This is a api made in python used to find armstrong numbers
 ### Note
-I do not update this anymore!
+I do not update this anymore, this is just a simple api the hosted version goes offline sometimes so don't depend on that.
 ### Setup
 Clone
 ```sh
